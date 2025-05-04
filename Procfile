@@ -1,1 +1,0 @@
-web: gunicorn edusite.wsgi:application --log-file - 
